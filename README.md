@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Continuar la evolución del sistema aplicando las estructuras de datos principales de Python: **lista, tupla, diccionario y conjunto**, cada una con una finalidad concreta dentro del programa.
 
 ---
@@ -26,7 +26,7 @@ plaintext
 
 ---
 
-## 🧩 ¿Dónde y para qué se usó cada estructura?
+##  ¿Dónde y para qué se usó cada estructura?
 
 | Estructura | Ubicación | Propósito |
 |---|---|---|
@@ -46,7 +46,7 @@ plaintext
 
 ---
 
-## 🚀 Ejecución
+##  Ejecución
 ```bash
 python main.py
 💡 Reflexión
